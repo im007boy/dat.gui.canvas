@@ -1,0 +1,3 @@
+[submodule "src/dat-gui"]
+	path = src/dat-gui
+	url = https://code.google.com/p/dat-gui/
